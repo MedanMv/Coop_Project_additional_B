@@ -1,0 +1,14 @@
+    <button id="fullscreenBtn">Go Fullscreen</button>
+
+    <table id="formulas-table" style="display: none;" border="1">
+        <thead>
+            <tr>
+                <th>Formula</th>
+                <th>Theme</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- Rows will be dynamically populated -->
+        </tbody>
+    </table>
+    
